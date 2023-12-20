@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/cdac/glassfish7/glassfish/lib/jakartaee.jar"
+    ]
+}
